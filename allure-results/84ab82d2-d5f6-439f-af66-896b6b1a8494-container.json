@@ -1,0 +1,1 @@
+{"uuid":"84ab82d2-d5f6-439f-af66-896b6b1a8494","name":"OrangeTask","children":["78b05865-3fe4-40bb-8b94-c8b261507599"],"befores":[],"afters":[{"name":"closingBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728136388550,"stop":1728136389220}],"start":1728136358251,"stop":1728136389222}
